@@ -1,0 +1,304 @@
+/*@media (min-width: 575px) {*/
+@media (min-width: 0px) and (max-width: 575px) {
+    .header_slidder_logo {
+        margin-top: -110px;
+    }
+
+    .header_slidder_logo a img {
+        /* margin: 0; */
+        margin: auto;
+        float: none;
+        width: 100px;
+    }
+
+    .header_slidder_contain h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .header_slidder_contain h5 {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .all_menu .navbar-collapse {
+        align-items: normal;
+    }
+
+    .all_menu .navbar-nav .nav-item .nav-link {
+        text-align: left;
+        text-indent: 25px;
+        border: 0;
+    }
+
+    .main_suborno {
+        width: 100%;
+        height: 215px;
+        display: block;
+    }
+
+    .main_suborno_para {
+        width: 100%;
+    }
+
+    .main_suborno_img {
+        width: 100%;
+    }
+
+    .main_suborno_img img {
+        width: 145px;
+    }
+
+    .main_suborno_para p {
+        font-size: 17px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .main_suborno_para a {
+        font-size: 17px;
+        margin-top: 0px;
+        display: block;
+        text-align: center;
+    }
+
+    .main_suborno_para button {
+        position: inherit;
+        float: none;
+        bottom: 0px;
+        margin: 10px auto;
+    }
+
+    .notice_body {
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    .notice_head h4 {
+        text-indent: 0px;
+        text-align: center;
+    }
+
+    .notice_body ul {
+        padding-left: 10px;
+    }
+
+    .notice_body ul li {
+        background: url(../images/bullet_tick.png) no-repeat 0% 6px;
+    }
+
+    .notice_body ul li a {
+        margin-left: 0px;
+        font-size: 15px;
+        text-indent: 10px;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .page_notice_body {
+        padding: 10px 0px 40px 0px;
+    }
+
+    .page_notice_body table tr td {
+        border: 1px solid #000;
+        height: 50px;
+        font-size: 12px;
+        font-weight: 500;
+        padding: 8px 2px;
+    }
+
+    .teachers_body table tr td img {
+        width: 100%;
+    }
+
+    .dropdown-toggle::after {
+        display: inline-block;
+        margin-left: -1.0em;
+        vertical-align: .255em;
+        content: "\f107";
+        font-family: "FontAwesome";
+    }
+
+    .header_slidder_part {
+        height: 150px;
+    }
+
+    .header_slidder_parttwo {
+        height: 150px;
+    }
+
+    .header_slidder_partthree {
+        height: 150px;
+    }
+
+    .header_slidder_partfour {
+        height: 150px;
+    }
+
+    .header_slidder_partfive {
+        height: 150px;
+    }
+
+    .header_slidder_contain {
+        padding: 2px 0;
+    }
+
+    .body_slidder img {
+        height: 270px;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+
+
+    .header_slidder_logo {
+        margin-top: -110px;
+    }
+
+    .header_slidder_logo a img {
+        margin: 0;
+        margin: auto;
+        float: none;
+    }
+
+    .header_slidder_contain h3 {
+        font-size: 20px;
+    }
+
+    .header_slidder_contain h5 {
+        font-size: 15px;
+    }
+
+    .all_menu .navbar-collapse {
+        align-items: normal;
+    }
+
+    .all_menu .navbar-nav .nav-item .nav-link {
+        text-align: left;
+        text-indent: 25px;
+        border: 0;
+    }
+
+    .main_suborno {
+        width: 100%;
+        height: 215px;
+        display: block;
+    }
+
+    .main_suborno_para {
+        width: 100%;
+    }
+
+    .main_suborno_img {
+        width: 100%;
+    }
+
+    .main_suborno_img img {
+        width: 145px;
+    }
+
+    .main_suborno_para p {
+        font-size: 17px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .main_suborno_para a {
+        font-size: 17px;
+        margin-top: 0px;
+        display: block;
+        text-align: center;
+    }
+
+    .main_suborno_para button {
+        position: inherit;
+        float: none;
+        bottom: 0px;
+        margin: 10px auto;
+    }
+
+    .notice_body {
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    .notice_head h4 {
+        text-indent: 0px;
+        text-align: center;
+    }
+
+    .notice_body ul {
+        padding-left: 10px;
+    }
+
+    .notice_body ul li {
+        background: url(../images/bullet_tick.png) no-repeat 0% 6px;
+    }
+
+    .notice_body ul li a {
+        margin-left: 0px;
+        font-size: 15px;
+        text-indent: 10px;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .dropdown-toggle::after {
+        display: inline-block;
+        margin-left: -1.0em;
+        vertical-align: .255em;
+        content: "\f107";
+        font-family: "FontAwesome";
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .all_menu .navbar-collapse {
+        align-items: normal;
+    }
+
+    .all_menu .navbar-nav .nav-item .nav-link {
+        text-align: left;
+        text-indent: 25px;
+        border: 0;
+    }
+
+    .notice_body ul {
+        padding-left: 33px;
+        margin-top: 20px;
+    }
+
+    .notice_head h4 {
+        text-indent: 0px;
+        text-align: center;
+    }
+
+    .dropdown-toggle::after {
+        display: inline-block;
+        margin-left: -1.0em;
+        vertical-align: .255em;
+        content: "\f107";
+        font-family: "FontAwesome";
+    }
+
+
+
+    @media (min-width: 992px) and (max-width: 1199px) {
+
+        .notice_body ul {
+            padding-left: 90px;
+        }
+
+        .notice_body ul li {
+            background: url(../images/bullet_tick.png) no-repeat 0% 6px;
+            margin-bottom: 5px;
+        }
+
+    }
+
+    @media (min-width: 1200px) and (max-width: 1399px) {}
+
+    @media (min-width: 1400px) {}
